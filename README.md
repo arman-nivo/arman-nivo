@@ -1,9 +1,9 @@
 # Gazi Arman Islam
 **Software Engineer | Full-Stack Developer | AI Engineer**
 
-📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp; 📱 01714437828 &nbsp;|&nbsp; GitHub: arman-nivo &nbsp;|&nbsp; LinkedIn &nbsp;|&nbsp; Portfolio
+📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp; 📱 01714437828 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  [Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
 
-Full-Stack Developer (2+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
+Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
 
 ---
 
@@ -27,14 +27,16 @@ Full-Stack Developer (2+ yrs) building scalable apps with **Laravel, React.js, D
 
 ## 🔬 Research
 
-- **Generative AI Meets Responsible AI and Affective Computing** *(EEE Conference)* — Multimodal 3D emotion recognition (text/image/voice); novel dataset + parallel emotional dictation.
-- **ML-Driven Energy Demand Forecasting for Sustainable...** *(IEEE Conference)* — Predictive framework for hospital energy demand; up to 12% energy savings.
+- **Generative AI Meets Responsible AI and Affective Computing** *[(EEE Conference)](https://ieeexplore.ieee.org/abstract/document/11490183)* — Multimodal 3D emotion recognition (text/image/voice); novel dataset + parallel emotional dictation.
+- **ML-Driven Energy Demand Forecasting for Sustainable...** *[(IEEE Conference)](https://ieeexplore.ieee.org/abstract/document/11506910)* — Predictive framework for hospital energy demand; up to 12% energy savings.
 
 ---
 
 ## 🎓 Education
 
-B.Sc. CSE, Brac University (2025) | HSC, Noakhali Govt. College (2019) | SSC, Arun Chandra High School (2017)
+B.Sc. CSE, Brac University (2025) |
+HSC, Noakhali Govt. College (2019) | 
+SSC, Arun Chandra High School (2017)
 
 ---
 
@@ -50,4 +52,7 @@ B.Sc. CSE, Brac University (2025) | HSC, Noakhali Govt. College (2019) | SSC, Ar
 
 ## 📫 Contact
 
-gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp; 01714437828 &nbsp;|&nbsp; GitHub: arman-nivo
+📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp;
+📱 01714437828 &nbsp;|&nbsp; 
+[LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  
+[Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
