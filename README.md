@@ -1,16 +1,53 @@
-## Hi there 👋
+# Gazi Arman Islam
+**Software Engineer | Full-Stack Developer | AI Engineer**
 
-<!--
-**arman-nivo/arman-nivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp; 📱 01714437828 &nbsp;|&nbsp; GitHub: arman-nivo &nbsp;|&nbsp; LinkedIn &nbsp;|&nbsp; Portfolio
 
-Here are some ideas to get you started:
+Full-Stack Developer (2+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+- **Mid-Level Full Stack Developer — Zatiq Easy Limited** *(June 2026–Present)*: Laravel/React/Node full-stack apps, REST APIs, AI feature integration, payment gateways.
+- **Software Engineer — neoNexor** *(Jul 2025–Jun 2026)*: Laravel/Django backends, React frontends, CMS-based e-commerce platforms.
+- **Executive — TechGarlic** *(Oct 2023–May 2025)*: Power BI dashboards, Python NLP for sentiment/trend analysis, data-driven reporting.
+- **Freelance Web Developer — Fiverr** *(2020–2021)*: 17+ international full-stack projects.
+
+---
+
+## 🚀 Projects
+
+- **AI Quiz & Answer Evaluation System** — Flask/Python/SQLite; semantic grading with Sentence-BERT + mT5 for multilingual (English/Bangla) NLP.
+- **Laravel E-Commerce Platform** — Auth, checkout, bKash/Nagad/Steadfast/Pathao integrations, admin dashboard.
+- **Zero-Vision** — Laravel platform for monitoring/visualizing user metrics with role-based auth.
+- **Booking Event Management** — React/MongoDB event tracking with real-time analytics dashboards.
+
+---
+
+## 🔬 Research
+
+- **Generative AI Meets Responsible AI and Affective Computing** *(EEE Conference)* — Multimodal 3D emotion recognition (text/image/voice); novel dataset + parallel emotional dictation.
+- **ML-Driven Energy Demand Forecasting for Sustainable...** *(IEEE Conference)* — Predictive framework for hospital energy demand; up to 12% energy savings.
+
+---
+
+## 🎓 Education
+
+B.Sc. CSE, Brac University (2025) | HSC, Noakhali Govt. College (2019) | SSC, Arun Chandra High School (2017)
+
+---
+
+## 🛠️ Skills
+
+**Languages:** PHP, Python, JavaScript, SQL, HTML5, CSS3
+**Frameworks:** Laravel, Flask, React.js, Next.js, Bootstrap
+**Databases:** MySQL, PostgreSQL, SQLite, MongoDB
+**AI/ML:** Sentence-BERT, mT5, Cosine Similarity, NLP
+**Tools:** Git, GitHub, Linux, CI/CD
+
+---
+
+## 📫 Contact
+
+gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp; 01714437828 &nbsp;|&nbsp; GitHub: arman-nivo
