@@ -1,7 +1,6 @@
 # Gazi Arman Islam
 **Software Engineer | Full-Stack Developer | AI Engineer**
 
-📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp; 📱 01714437828 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  [Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
 
 Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
 
@@ -54,5 +53,7 @@ SSC, Arun Chandra High School (2017)
 
 📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp;
 📱 01714437828 &nbsp;|&nbsp; 
+
 [LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  
+
 [Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
