@@ -8,10 +8,10 @@ Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, D
 
 ## 💼 Experience
 
-- **Mid-Level Full Stack Developer — Zatiq Easy Limited** *(June 2026–Present)*: Laravel/React/Node full-stack apps, REST APIs, AI feature integration, payment gateways.
-- **Software Engineer — neoNexor** *(Jul 2025–Jun 2026)*: Laravel/Django backends, React frontends, CMS-based e-commerce platforms.
-- **Executive — TechGarlic** *(Oct 2023–May 2025)*: Power BI dashboards, Python NLP for sentiment/trend analysis, data-driven reporting.
-- **Freelance Web Developer — Fiverr** *(2020–2021)*: 17+ international full-stack projects.
+- ***Mid-Level Full Stack Developer — Zatiq Easy Limited*** **(June 2026 – Present)**:
+- **Software Engineer — neoNexor** *(Jul 2025–Jun 2026)*:
+- **Executive — TechGarlic** *(Oct 2023–May 2025)*: 
+- **Freelance Web Developer — Fiverr** *(2020–2021)*: 
 
 ---
 
@@ -21,6 +21,10 @@ Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, D
 - **Laravel E-Commerce Platform** — Auth, checkout, bKash/Nagad/Steadfast/Pathao integrations, admin dashboard.
 - **Zero-Vision** — Laravel platform for monitoring/visualizing user metrics with role-based auth.
 - **Booking Event Management** — React/MongoDB event tracking with real-time analytics dashboards.
+-  Laravel/React/Node full-stack apps, REST APIs, AI feature integration, payment gateways.
+- Laravel/Django backends, React frontends, CMS-based e-commerce platforms.
+-   Power BI dashboards, Python NLP for sentiment/trend analysis, data-driven reporting.
+-   17+ international full-stack projects.
 
 ---
 
