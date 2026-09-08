@@ -23,12 +23,10 @@ Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, D
 - **Booking Event Management** — React/MongoDB event tracking with real-time analytics dashboards.
 -  Laravel/React/Node full-stack apps, REST APIs, AI feature integration, payment gateways.
 - Laravel/Django backends, React frontends, CMS-based e-commerce platforms.
--   Power BI dashboards, Python NLP for sentiment/trend analysis, data-driven reporting.
--   17+ international full-stack projects.
 
 ---
 
-## 🔬 Research
+## 🔬 Research & Publication
 
 - **Generative AI Meets Responsible AI and Affective Computing** *[(EEE Conference)](https://ieeexplore.ieee.org/abstract/document/11490183)* — Multimodal 3D emotion recognition (text/image/voice); novel dataset + parallel emotional dictation.
 - **ML-Driven Energy Demand Forecasting for Sustainable...** *[(IEEE Conference)](https://ieeexplore.ieee.org/abstract/document/11506910)* — Predictive framework for hospital energy demand; up to 12% energy savings.
@@ -57,7 +55,5 @@ SSC, Arun Chandra High School (2017)
 
 📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp;
 📱 01714437828 &nbsp;|&nbsp; 
-
-[LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  
-
-[Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
+in [LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  
+🔗 [Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
