@@ -40,6 +40,16 @@ Focused on REST APIs, payment gateway integration, auth systems, and clean archi
 </div>
 
 
+<h2 align="center">🛠️ Technologies I Work With</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,js,react,nextjs,nodejs,mysql,postgres,mongodb,sqlite,git,github,linux,docker&perline=9" />
+
+</div>
+
+
+
 
 
 <div align="center">
@@ -361,16 +371,8 @@ Machine Learning Framework for
 
 
 
-<h2 align="center">🛠️ Technologies I Work With</h2>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,js,react,nextjs,nodejs,mysql,postgres,mongodb,sqlite,git,github,linux,docker&perline=9" />
-
-</div>
-
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -382,7 +384,7 @@ Machine Learning Framework for
 
 <img src="https://streak-stats.demolab.com?user=gaziarmanislam&theme=tokyonight&hide_border=true"/>
 
-</div>
+</div> -->
 
 
 <h2 align="center">🐍 My Contribution Journey</h2>
