@@ -58,9 +58,42 @@
 
 </div>
 
-## 📫 Contact
 
-📧 gazi.arman.islam@g.bracu.ac.bd &nbsp;|&nbsp;
-📱 01714437828 &nbsp;|&nbsp; 
-in [LinkedIn](https://www.linkedin.com/in/gaziarmanislam/) &nbsp;|&nbsp;  
-🔗 [Portfolio](https://gazi-arman-islam-portfolio.vercel.app/)
+<div align="center">
+
+<h2>📫 Let's Connect</h2>
+
+<a href="mailto:gazi.arman.islam@g.bracu.ac.bd">
+  <img src="https://img.shields.io/badge/Email-gazi.arman.islam%40g.bracu.ac.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:01714437828">
+  <img src="https://img.shields.io/badge/Phone-01714437828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gaziarmanislam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gazi%20Arman%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://gazi-arman-islam-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<p>
+  <b>📧</b> gazi.arman.islam@g.bracu.ac.bd
+  &nbsp; • &nbsp;
+  <b>📱</b> 01714437828
+</p>
+
+<p>
+  <i>💡 Open to exciting opportunities, collaborations & AI projects.</i>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer"/>
+
+</div>
+
