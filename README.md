@@ -26,61 +26,37 @@
 
 </div>
 
-Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
+<h2 align="center">🛠️ Technologies I Work With</h2>
 
----
+<div align="center">
 
-## 💼 Experience
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,js,react,nextjs,nodejs,mysql,postgres,mongodb,sqlite,git,github,linux,docker&perline=9" />
 
-- ***Mid-Level Full Stack Developer — Zatiq Easy Limited*** **(June 2026 – Present)**:
-- **Software Engineer — neoNexor** *(Jul 2025–Jun 2026)*:
-- **Executive — TechGarlic** *(Oct 2023–May 2025)*: 
-- **Freelance Web Developer — Fiverr** *(2020–2021)*: 
+</div>
 
----
-## 📈 What I'm Currently Learning
-AI Engineering          ███████████████████░░   90%
-Laravel / Backend       ████████████████████░   95%
-React / Frontend        ███████████████████░░   90%
-Machine Learning        ████████████████░░░░░   80%
-System Design           ██████████████░░░░░░░   70%
-Cloud & DevOps          █████████████░░░░░░░░   65%
 
-## 🚀 Projects
+<h2 align="center">📊 GitHub Analytics</h2>
 
-- **AI Quiz & Answer Evaluation System** — Flask/Python/SQLite; semantic grading with Sentence-BERT + mT5 for multilingual (English/Bangla) NLP.
-- **Laravel E-Commerce Platform** — Auth, checkout, bKash/Nagad/Steadfast/Pathao integrations, admin dashboard.
-- **Zero-Vision** — Laravel platform for monitoring/visualizing user metrics with role-based auth.
-- **Booking Event Management** — React/MongoDB event tracking with real-time analytics dashboards.
--  Laravel/React/Node full-stack apps, REST APIs, AI feature integration, payment gateways.
-- Laravel/Django backends, React frontends, CMS-based e-commerce platforms.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=gaziarmanislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
-## 🔬 Research & Publication
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaziarmanislam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-- **Generative AI Meets Responsible AI and Affective Computing** *[(EEE Conference)](https://ieeexplore.ieee.org/abstract/document/11490183)* — Multimodal 3D emotion recognition (text/image/voice); novel dataset + parallel emotional dictation.
-- **ML-Driven Energy Demand Forecasting for Sustainable...** *[(IEEE Conference)](https://ieeexplore.ieee.org/abstract/document/11506910)* — Predictive framework for hospital energy demand; up to 12% energy savings.
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=gaziarmanislam&theme=tokyonight&hide_border=true"/>
 
-## 🎓 Education
+</div>
 
-B.Sc. CSE, Brac University (2025) |
-HSC, Noakhali Govt. College (2019) | 
-SSC, Arun Chandra High School (2017)
 
----
+<h2 align="center">🐍 My Contribution Journey</h2>
 
-## 🛠️ Skills
+<div align="center">
 
-**Languages:** PHP, Python, JavaScript, SQL, HTML5, CSS3
-**Frameworks:** Laravel, Flask, React.js, Next.js, Bootstrap
-**Databases:** MySQL, PostgreSQL, SQLite, MongoDB
-**AI/ML:** Sentence-BERT, mT5, Cosine Similarity, NLP
-**Tools:** Git, GitHub, Linux, CI/CD
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
----
+</div>
 
 ## 📫 Contact
 
