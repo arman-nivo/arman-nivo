@@ -27,10 +27,19 @@
 </div>
 
 <h2 align="center">👨‍💻 ABOUT ME</h2>
-<div>
-  
-  <p >Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.</p>
+
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+
+Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. &nbsp; • &nbsp;
+Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
+
+</marquee>
+
 </div>
+
+
 
 
 <div align="center">
