@@ -14,6 +14,13 @@ Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, D
 - **Freelance Web Developer — Fiverr** *(2020–2021)*: 
 
 ---
+## 📈 What I'm Currently Learning
+AI Engineering          ███████████████████░░   90%
+Laravel / Backend       ████████████████████░   95%
+React / Frontend        ███████████████████░░   90%
+Machine Learning        ████████████████░░░░░   80%
+System Design           ██████████████░░░░░░░   70%
+Cloud & DevOps          █████████████░░░░░░░░   65%
 
 ## 🚀 Projects
 
