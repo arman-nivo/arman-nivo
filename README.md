@@ -193,6 +193,173 @@ Focused on REST APIs, payment gateway integration, auth systems, and clean archi
 
 
 
+<!-- ==================== RESEARCH & PUBLICATIONS ==================== -->
+
+<h2 align="center">🔬 Featured Research & Publications</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IEEE-Published%20Research-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Research-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Research-36BCF7?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 Generative AI Meets Responsible AI</h3>
+
+<p align="center">
+<b>IEEE Conference Publication</b>
+</p>
+
+<p align="center">
+Multimodal 3D Emotion Recognition using
+<br/>
+<b>Text + Image + Voice</b>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NLP-Text-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Image-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Speech-Voice-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Affective%20Computing-AI-purple?style=flat-square"/>
+
+</p>
+
+<hr/>
+
+🔹 Novel multimodal dataset  
+🔹 Emotional dictation framework  
+🔹 Multimodal emotion recognition  
+🔹 Responsible AI  
+🔹 Affective Computing  
+
+<br/>
+
+<div align="center">
+
+<a href="https://ieeexplore.ieee.org/abstract/document/11490183">
+<img src="https://img.shields.io/badge/📄%20IEEE-View%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ ML-Driven Energy Demand Forecasting</h3>
+
+<p align="center">
+<b>IEEE Conference Publication</b>
+</p>
+
+<p align="center">
+Machine Learning Framework for
+<br/>
+<b>Hospital Energy Demand Forecasting</b>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Predictive-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sustainable%20Energy-Green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Energy-Forecasting-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Healthcare-AI-purple?style=flat-square"/>
+
+</p>
+
+<hr/>
+
+🔹 Predictive analytics  
+🔹 Hospital energy forecasting  
+🔹 Sustainable energy optimization  
+🔹 Machine-learning framework  
+
+<br/>
+
+<div align="center">
+
+<h2>📉 12%</h2>
+<b>Potential Energy Savings</b>
+
+<br/><br/>
+
+<a href="https://ieeexplore.ieee.org/abstract/document/11506910">
+<img src="https://img.shields.io/badge/📄%20IEEE-View%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=Published+Researcher+%7C+AI+%26+Machine+Learning;Multimodal+AI+%7C+Responsible+AI+%7C+Affective+Computing;Machine+Learning+%7C+Sustainable+Energy+Forecasting"/>
+
+</div>
+
+
+<!-- ==================== EDUCATION ==================== -->
+
+<h2 align="center">🎓 Education</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🎓 B.Sc. in CSE</h3>
+
+<b>Brac University</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Graduated-2025-36BCF7?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>📚 HSC</h3>
+
+<b>Noakhali Govt. College</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Completed-2019-8A2BE2?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🏫 SSC</h3>
+
+<b>Arun Chandra High School</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Completed-2017-00629B?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+
+
 
 <h2 align="center">🛠️ Technologies I Work With</h2>
 
