@@ -1,6 +1,30 @@
-# Gazi Arman Islam
-**Software Engineer | Full-Stack Developer | AI Engineer**
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Gazi%20Arman%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI+Engineer;Laravel+%7C+React+%7C+Python;Building+Scalable+%26+Intelligent+Applications"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gaziarmanislam/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://gazi-arman-islam-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:gazi.arman.islam@g.bracu.ac.bd">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gaziarmanislam&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 Full-Stack Developer (3+ yrs) building scalable apps with **Laravel, React.js, Django, Flask, MySQL, PostgreSQL**. Focused on REST APIs, payment gateway integration, auth systems, and clean architecture.
 
